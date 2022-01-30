@@ -15,4 +15,5 @@
 
 # Note
 The frontend assumes that the backend is on the same host, but on port 8000
+Replace the Django secret key if used!
 
